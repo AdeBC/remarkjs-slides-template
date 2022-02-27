@@ -1,10 +1,9 @@
-# Scientific Communication: oral presentations
+# remarkjs-slides-template
 
-Online version:
-[https://luispedro.github.io/talk-scientific-communication/](https://luispedro.github.io/talk-scientific-communication/)
+Preparing slides using Markdown is easy. 
 
-Author: [Luis Pedro Coelho](http://luispedro.org) (follow on
-[twitter](https://twitter.com/luispedrocoelho) or
-[github](https://github.com/luispedro)).
+This repository is mainly for my personal use, but you're welcome to using the template by clicking on the "**Use this template**" button! 
+
+Author: [Hui Chong](https://www.huichong.me)
 
 License: [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
